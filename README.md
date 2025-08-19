@@ -1,4 +1,5 @@
 # Clarist Liew
+Hello, developer👋. I am eager to learn new things and willing to leverage a solid foundation in software development principles and programming skills into a real-world application. I am excel in collaborative environments, consistently contributing creative solutions and practical insights to projects. I am looking forward to applying my technical expertise and fresh perspectives to drive impactful outcomes.
 ## 🔧 Programming Skills:
 - **Languages**: Java, Flutter, C# (Restful API), Python, HTML/CSS, JavaScript,  C++
 - **Database**: MySQL, Oracle SQL
